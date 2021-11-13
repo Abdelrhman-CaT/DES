@@ -1,5 +1,5 @@
 # DES
-A command line tool that implements DES using C++.
+A command line tool that implements DES (Data Encryption Standard) using C++.
 
 ## Steps
 ### 1- specify the operation (encrypt/decrypt)
