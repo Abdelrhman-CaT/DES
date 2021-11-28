@@ -4,7 +4,7 @@
 */
 
 #include <stdio.h>
-#include <iostream>
+#include <string.h>
 
 #ifdef __GNUC__ 
 # define __rdtsc __builtin_ia32_rdtsc 
